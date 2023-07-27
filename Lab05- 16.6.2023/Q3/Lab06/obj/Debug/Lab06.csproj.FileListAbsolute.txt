@@ -1,0 +1,16 @@
+C:\Users\user\Source\Repos\Lab06\Lab06\obj\Debug\Lab06.csproj.AssemblyReference.cache
+C:\Users\user\Source\Repos\Lab06\Lab06\obj\Debug\Lab06.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Source\Repos\Lab06\Lab06\obj\Debug\Lab06.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\Lab06\Lab06\bin\Debug\Lab06.exe.config
+C:\Users\user\Source\Repos\Lab06\Lab06\bin\Debug\Lab06.exe
+C:\Users\user\Source\Repos\Lab06\Lab06\bin\Debug\Lab06.pdb
+C:\Users\user\Source\Repos\Lab06\Lab06\obj\Debug\Lab06.exe
+C:\Users\user\Source\Repos\Lab06\Lab06\obj\Debug\Lab06.pdb
+C:\Users\user\OneDrive - NSBM\Documents\Y1S2 22.2\C#\Lab06\Q3\Lab06\obj\Debug\Lab06.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - NSBM\Documents\Y1S2 22.2\C#\Lab06\Q3\Lab06\obj\Debug\Lab06.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\OneDrive - NSBM\Documents\Y1S2 22.2\C#\Lab06\Q3\Lab06\obj\Debug\Lab06.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - NSBM\Documents\Y1S2 22.2\C#\Lab06\Q3\Lab06\obj\Debug\Lab06.exe
+C:\Users\user\OneDrive - NSBM\Documents\Y1S2 22.2\C#\Lab06\Q3\Lab06\obj\Debug\Lab06.pdb
+C:\Users\user\OneDrive - NSBM\Documents\Y1S2 22.2\C#\Lab06\Q3\Lab06\bin\Debug\Lab06.exe.config
+C:\Users\user\OneDrive - NSBM\Documents\Y1S2 22.2\C#\Lab06\Q3\Lab06\bin\Debug\Lab06.exe
+C:\Users\user\OneDrive - NSBM\Documents\Y1S2 22.2\C#\Lab06\Q3\Lab06\bin\Debug\Lab06.pdb

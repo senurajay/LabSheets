@@ -1,0 +1,24 @@
+C:\Users\user\OneDrive - NSBM\Documents\Y1S2 22.2\C#\Lab07-23.6.2023\Q8\Q8\obj\Debug\Q8.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - NSBM\Documents\Y1S2 22.2\C#\Lab07-23.6.2023\Q8\Q8\obj\Debug\Q8.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\OneDrive - NSBM\Documents\Y1S2 22.2\C#\Lab07-23.6.2023\Q8\Q8\obj\Debug\Q8.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - NSBM\Documents\Y1S2 22.2\C#\Lab07-23.6.2023\Q8\Q8\bin\Debug\Q8.exe.config
+C:\Users\user\OneDrive - NSBM\Documents\Y1S2 22.2\C#\Lab07-23.6.2023\Q8\Q8\bin\Debug\Q8.exe
+C:\Users\user\OneDrive - NSBM\Documents\Y1S2 22.2\C#\Lab07-23.6.2023\Q8\Q8\bin\Debug\Q8.pdb
+C:\Users\user\OneDrive - NSBM\Documents\Y1S2 22.2\C#\Lab07-23.6.2023\Q8\Q8\obj\Debug\Q8.exe
+C:\Users\user\OneDrive - NSBM\Documents\Y1S2 22.2\C#\Lab07-23.6.2023\Q8\Q8\obj\Debug\Q8.pdb
+C:\Users\user\OneDrive - NSBM\Documents\Y1S2 22.2\C#\Lab06-23.6.2023\Q8\Q8\bin\Debug\Q8.exe.config
+C:\Users\user\OneDrive - NSBM\Documents\Y1S2 22.2\C#\Lab06-23.6.2023\Q8\Q8\bin\Debug\Q8.exe
+C:\Users\user\OneDrive - NSBM\Documents\Y1S2 22.2\C#\Lab06-23.6.2023\Q8\Q8\bin\Debug\Q8.pdb
+C:\Users\user\OneDrive - NSBM\Documents\Y1S2 22.2\C#\Lab06-23.6.2023\Q8\Q8\obj\Debug\Q8.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - NSBM\Documents\Y1S2 22.2\C#\Lab06-23.6.2023\Q8\Q8\obj\Debug\Q8.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\OneDrive - NSBM\Documents\Y1S2 22.2\C#\Lab06-23.6.2023\Q8\Q8\obj\Debug\Q8.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - NSBM\Documents\Y1S2 22.2\C#\Lab06-23.6.2023\Q8\Q8\obj\Debug\Q8.exe
+C:\Users\user\OneDrive - NSBM\Documents\Y1S2 22.2\C#\Lab06-23.6.2023\Q8\Q8\obj\Debug\Q8.pdb
+C:\Users\user\OneDrive - NSBM\Documents\Y1S2 22.2\C#\Lab07 - 7.7.2023\Q8\Q8\bin\Debug\Q8.exe.config
+C:\Users\user\OneDrive - NSBM\Documents\Y1S2 22.2\C#\Lab07 - 7.7.2023\Q8\Q8\bin\Debug\Q8.exe
+C:\Users\user\OneDrive - NSBM\Documents\Y1S2 22.2\C#\Lab07 - 7.7.2023\Q8\Q8\bin\Debug\Q8.pdb
+C:\Users\user\OneDrive - NSBM\Documents\Y1S2 22.2\C#\Lab07 - 7.7.2023\Q8\Q8\obj\Debug\Q8.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - NSBM\Documents\Y1S2 22.2\C#\Lab07 - 7.7.2023\Q8\Q8\obj\Debug\Q8.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\OneDrive - NSBM\Documents\Y1S2 22.2\C#\Lab07 - 7.7.2023\Q8\Q8\obj\Debug\Q8.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - NSBM\Documents\Y1S2 22.2\C#\Lab07 - 7.7.2023\Q8\Q8\obj\Debug\Q8.exe
+C:\Users\user\OneDrive - NSBM\Documents\Y1S2 22.2\C#\Lab07 - 7.7.2023\Q8\Q8\obj\Debug\Q8.pdb
